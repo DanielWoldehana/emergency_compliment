@@ -12,6 +12,7 @@ class DannyComponent extends Component {
     return (
       <div>
         <h1>{this.state.name} </h1>
+        <h1>Hi</h1>
       </div>
     );
   }
